@@ -1,0 +1,20 @@
+# Dependencies & Build artifacts
+node_modules/
+build/
+
+# Environment files
+.env
+.env.*
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / Editor specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

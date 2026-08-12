@@ -1,0 +1,6 @@
+Pillow
+numpy
+matplotlib
+colorpy
+colormap
+pyautogui
