@@ -90,7 +90,7 @@ web-app/     # React frontend and the Express/Dockerode session orchestrator
 
 - Save slots are held in memory inside each container, so they are lost when a session is cleaned up. This is deliberate for a stateless demo, not a bug.
 - The orchestrator binds containers to `127.0.0.1`, so it is meant to sit behind a reverse proxy and not be exposed directly.
-- This is a personal project, not a production service. Earlier iterations of the code are kept in `simulator/assets/old scripts (ignore)/` for reference.
+- This is a personal project, not a production service.
 
 ## Licence
 
